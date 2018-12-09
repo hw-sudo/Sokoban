@@ -11,7 +11,7 @@
 </div>
 游戏页面  
 <div align=center>
-  <img src="https://github.com/qq2433547277/Exam/blob/master/README/QQ图片20181209130419.png"/>
+  <img src="https://github.com/qq2433547277/Exam/blob/master/README/QQ图片20181209130419.jpg"/>
 </div>
 通关页面  
 <div align=center>
